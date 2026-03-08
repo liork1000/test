@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", "Arial Hebrew", Arial, sans-serif;
+  background: #f5f0eb;
+  color: #2c2c2c;
+  direction: rtl;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+input, textarea {
+  font-family: inherit;
+  font-size: 1rem;
+  direction: rtl;
+}
